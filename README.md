@@ -27,7 +27,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 2. Print the 3D Printable components.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Print/) folder.
 
 Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Printing_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
@@ -40,7 +40,7 @@ Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Prin
 | 3D Printing Guide    | 1.0     | [Pull-Tab_Tin_Can_Opener_3D_Printing_Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Printing_Guide_V1.0.pdf)     |
 | User Guide           | 1.0     | [Pull-Tab_Tin_Can_Opener_User_Guide](/Documentation/Pull-Tab_Tin_Can_Opener_User_Guide_V1.0.pdf)    |
 | Changelog            | 1.0     | [Pull-Tab_Tin_Can_Opener_Changelog](/Documentation/Pull-Tab_Tin_Can_Opener_Changelog_V1.0.pdf)     |
-| Summary              | 1.0     | [Pull-Tab_Tin_Can_Opener_Summary](/Documentation/Pull-Tab_Tin_Can_Opener_Changelog_V1.0.pdf)     |
+| Summary              | 1.0     | [Pull-Tab_Tin_Can_Opener_Summary](/Documentation/Pull-Tab_Tin_Can_Opener_Summary_V1.0.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
