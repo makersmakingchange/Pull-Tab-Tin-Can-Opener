@@ -25,11 +25,11 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the [Makers Checklist](/Documentation/Pull-Tab_Tin_Can_Opener_Maker_Checklist_V1.0.pdf).
 
-### 3. Print the 3D Printable components.
+### 2. Print the 3D Printable components.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Printing_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
@@ -38,7 +38,7 @@ Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_Assembl
 | Maker Checklist      | 1.0     | [Pull-Tab_Tin_Can_Opener_Maker_Checklist](/Documentation/Pull-Tab_Tin_Can_Opener_Maker_Checklist_V1.0.pdf)     |
 | Bill of Materials    | 1.0     | [Pull-Tab_Tin_Can_Opener_Bill_of_Materials](/Documentation/Pull-Tab_Tin_Can_Opener_BOM_V1.0.csv)     |
 | 3D Printing Guide    | 1.0     | [Pull-Tab_Tin_Can_Opener_3D_Printing_Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Printing_Guide_V1.0.pdf)     |
-| User Guide           | 1.0     | [Pull-Tab_Tin_Can_Opener_User_Guide](/Documentation/Pull-Tab_Tin_Can_Opener_Quick_Guide_V1.0.pdf)    |
+| User Guide           | 1.0     | [Pull-Tab_Tin_Can_Opener_User_Guide](/Documentation/Pull-Tab_Tin_Can_Opener_User_Guide_V1.0.pdf)    |
 | Changelog            | 1.0     | [Pull-Tab_Tin_Can_Opener_Changelog](/Documentation/Pull-Tab_Tin_Can_Opener_Changelog_V1.0.pdf)     |
 | Summary              | 1.0     | [Pull-Tab_Tin_Can_Opener_Summary](/Documentation/Pull-Tab_Tin_Can_Opener_Changelog_V1.0.pdf)     |
 
