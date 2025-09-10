@@ -1,5 +1,9 @@
 # Pull-Tab Tin Can Opener
-The Pull-Tab Tin Can Opener is a device to help those with arthritis, limited finger dexterity or limited finger strength open tin cans with pull-tabs.
+The Pull-Tab Tin Can Opener is a 3d printed device to help those with arthritis, limited finger dexterity or limited finger strength open tin cans with pull-tabs.
+
+The Pull-Tab Tin Can Opener is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+
+The overall cost of materials is about $0.50.
 
 <img src="Photos/Pull-Tab_Tin_Can_Opener_1.jpg" width="500" alt="Picture of Pull-Tab Tin Can Opener.">
 
@@ -45,16 +49,15 @@ Reference the [3D Printing Guide](/Documentation/Pull-Tab_Tin_Can_Opener_3D_Prin
  - [3D Printing Files](/Build_Files/3D_Print_Files)
 
 ## Attribution
-Designers:
-Design by Printlab user 4xsample under the CC0 license.
-Documentation by Neil Squire / Makers Making Change under the CC BY SA 4.0 license.
+ - The [Can Opener](https://www.printables.com/model/192535-can-opener) was designed by [4xsample](https://www.printables.com/@4xsample_265035) and released on Printables under a [Creative Commons Public Domain license](https://creativecommons.org/share-your-work/public-domain/cc0/).  
+ - Documentation by Neil Squire / Makers Making Change under a CC BY SA 4.0 license.
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the Pull-Tab Tin Can Opener is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Copyright (c) 2022-2025 Neil Squire Society. 
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><Pull-Tab Tin Can Opener></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+ - The design is is available under a [Creative Commons Public Domain license](https://creativecommons.org/share-your-work/public-domain/cc0/). The original designer has waived all rights to their work, so anyone can use it for any purpose—including copying, modifying, distributing, and even commercial use—without needing permission or giving credit
+ - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Pull-Tab Tin Can Opener are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). This means you are free to use, share, and adapt the work for any purpose, even commercially, as long as you give credit to the creator and license any adaptations under the same terms. The “share alike” rule means adaptations must also be free for others to use under CC BY-SA.
 
 
 ---
